@@ -82,11 +82,20 @@ import { Global } from '../../app/global';
 <li> `3` </li>
 </ol>
 
+1. 1번
+2. 2번
+3. 3번
+
 ### ul
 <ul> ul리스트 입니다.
 <li> 1 </li>
 <li> 2 </li>
 <li> 3 </li>
 </ul>
+
+- 1번
+- 2번
+- 3번
+
 
 # preview html로 저장하면 html로 문서가 나옴
